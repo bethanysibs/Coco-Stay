@@ -1,0 +1,15 @@
+[21/Sep/2022:23:18:29] (I): WordPress Instance Info:
+[21/Sep/2022:23:18:29] (I): Home URL : http://localhost/grau
+[21/Sep/2022:23:18:29] (I): Site URL : http://localhost/grau
+[21/Sep/2022:23:18:29] (I): WordPress Version : 6.0.2
+[21/Sep/2022:23:18:29] (I): Onboarding Version : 1.1.26
+[21/Sep/2022:23:18:29] (I): Multisite : No
+[21/Sep/2022:23:18:29] (I): Server Info : Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/7.4.27
+[21/Sep/2022:23:18:29] (I): PHP Version : 7.4.27
+[21/Sep/2022:23:18:29] (I): HTTPS : No
+[21/Sep/2022:23:18:29] (I): PHP Max Execution Time : 120
+[21/Sep/2022:23:18:29] (I): PHP Max Input Vars : 1000
+[21/Sep/2022:23:18:29] (I): Max Upload Size : 41943040
+[21/Sep/2022:23:18:29] (I): Plugins:
+[21/Sep/2022:23:18:29] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.0.14 (ThemeIsle)
+[21/Sep/2022:23:18:29] (I): [PLUGIN] Templates Patterns Collection : v1.1.26 (ThemeIsle)
